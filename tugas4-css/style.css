@@ -1,0 +1,9 @@
+h1.judul {
+    text-decoration: underline;
+}
+
+button {
+    color: chocolate;
+    border: none;
+    font-size: 30px;
+}
